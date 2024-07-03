@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software, new Techs
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on DSA and AI/ML
-- 📫 How to reach me email on tushar.sahu@imss.co.in
+- 📫 How to reach me by emailing tushar.sahu@imss.co.in
 - 😄 Pronouns: Tushar
 - ⚡ Fun fact: HackerRank 5 star
 
